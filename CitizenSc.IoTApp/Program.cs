@@ -13,10 +13,7 @@ namespace CitizenSc.IoTApp
    {
       public static void Main()
       {
-         // write your code here
-
 
       }
-
    }
 }
